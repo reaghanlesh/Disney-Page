@@ -1,0 +1,169 @@
+/* shop image hover */
+.my-hover-div:hover #merch-image {
+  display: none;
+}
+
+.my-hover-div:hover #toy-image {
+  display: inline-block;
+}
+
+#merch-image {
+  display: inline-block;
+}
+
+#toy-image {
+  display: none;
+}
+
+/* movies image hover */
+
+.my-hover-div:hover #mulanog-image {
+  display: none;
+}
+
+.my-hover-div:hover #mulannew-image {
+  display: inline-block;
+}
+
+#mulanog-image {
+  display: inline-block;
+}
+
+#mulannew-image {
+  display: none;
+}
+
+.my-hover-div {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+/* parks image hover */
+
+.my-hover-div:hover #magic-image {
+  display: none;
+}
+
+.my-hover-div:hover #galaxy-image {
+  display: inline-block;
+}
+
+#magic-image {
+  display: inline-block;
+}
+
+#galaxy-image {
+  display: none;
+}
+
+.my-navbg {
+  background-color:	#F5F5F5;
+}
+
+.carousel-caption h5 {
+  font-family: 'WaltographRegular';
+  font-weight: normal;
+  font-style: normal;
+  color: white;
+  font-size: 40pt;
+}
+
+
+.img-width {
+  width: 250px;
+}
+
+.natgeo-img {
+  width: 400px;
+}
+
+.my-img {
+  width: 500px;
+}
+
+.pixar-img {
+  width: 300px;
+}
+
+h1 {
+   font-family: 'WaltographRegular';
+   font-weight: normal;
+   font-style: normal;
+   color: #212a5d;
+   font-size: 35pt;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  color: #1281fc;
+}
+
+h3  {
+  font-family: 'Oswald', sans-serif;
+  color: #1281fc;
+  font-size: 35pt;
+}
+
+
+p2 {
+  font-family: 'PT Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #212a5d;
+  font-size: 20pt;
+}
+
+p {
+  font-family: 'PT Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: white;
+  font-size: 14pt;
+
+}
+
+p4  {
+  font-family: 'PT Sans', sans-serif;
+  color: #212a5d;
+  font-size: 13pt;
+
+}
+
+.nav-design {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15pt;
+  color: 	#bff5fd;
+}
+
+
+
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.my-hover-div:hover #jungleog-image {
+    display: none;
+  }
+
+  .my-hover-div:hover #junglenew-image {
+    display: inline-block;
+  }
+
+  #jungleog-image {
+    display: inline-block;
+  }
+
+  #jungleog-image {
+    display: none;
+  }
+
+  /* .disney-image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  */
+
+  .disney-image:hover {
+    opacity: 0.8;
+  }
